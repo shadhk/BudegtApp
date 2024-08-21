@@ -1,0 +1,406 @@
+[
+  {
+    "E:\\budget-react-main\\src\\index.js": "1",
+    "E:\\budget-react-main\\src\\App.js": "2",
+    "E:\\budget-react-main\\src\\store\\configureStore.js": "3",
+    "E:\\budget-react-main\\src\\components\\ModalEdit.js": "4",
+    "E:\\budget-react-main\\src\\components\\NewEntryForm.js": "5",
+    "E:\\budget-react-main\\src\\components\\DisplayBalance.js": "6",
+    "E:\\budget-react-main\\src\\components\\EntryLines.js": "7",
+    "E:\\budget-react-main\\src\\components\\DisplayBalances.js": "8",
+    "E:\\budget-react-main\\src\\components\\MainHeader.js": "9",
+    "E:\\budget-react-main\\src\\reducers\\modals.reducers.js": "10",
+    "E:\\budget-react-main\\src\\reducers\\entries.reducers.js": "11",
+    "E:\\budget-react-main\\src\\actions\\entries.actions.js": "12",
+    "E:\\budget-react-main\\src\\sagas\\index.js": "13",
+    "E:\\budget-react-main\\src\\actions\\modals.actions.js": "14",
+    "E:\\budget-react-main\\src\\components\\ButtonSaveOrCancel.js": "15",
+    "E:\\budget-react-main\\src\\components\\EntryForm.js": "16",
+    "E:\\budget-react-main\\src\\components\\EntryLine.js": "17",
+    "E:\\budget-react-main\\src\\hooks\\useEntryDetails.js": "18",
+    "E:\\budget-react-main\\src\\sagas\\entriesSagaDeletion.js": "19",
+    "E:\\budget-react-main\\src\\sagas\\entriesSagaAdd.js": "20",
+    "E:\\budget-react-main\\src\\sagas\\entriesSaga.js": "21"
+  },
+  {
+    "size": 419,
+    "mtime": 1724239860176,
+    "results": "22",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 2063,
+    "mtime": 1724239852476,
+    "results": "24",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 714,
+    "mtime": 1618049194000,
+    "results": "25",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 1164,
+    "mtime": 1724239764156,
+    "results": "26",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 699,
+    "mtime": 1724239767656,
+    "results": "27",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 419,
+    "mtime": 1724239742872,
+    "results": "28",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 337,
+    "mtime": 1724239757266,
+    "results": "29",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 754,
+    "mtime": 1724239747382,
+    "results": "30",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 189,
+    "mtime": 1724239760819,
+    "results": "31",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 386,
+    "mtime": 1724239812836,
+    "results": "32",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 858,
+    "mtime": 1724239806835,
+    "results": "33",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 949,
+    "mtime": 1724239783602,
+    "results": "34",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 568,
+    "mtime": 1724239834659,
+    "results": "35",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 297,
+    "mtime": 1724239787464,
+    "results": "36",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 380,
+    "mtime": 1724239738504,
+    "results": "37",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 1026,
+    "mtime": 1724239751765,
+    "results": "38",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 1296,
+    "mtime": 1724239754466,
+    "results": "39",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 1293,
+    "mtime": 1724239798499,
+    "results": "40",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 529,
+    "mtime": 1724239831543,
+    "results": "41",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 693,
+    "mtime": 1724239827691,
+    "results": "42",
+    "hashOfConfig": "23"
+  },
+  {
+    "size": 876,
+    "mtime": 1724239822128,
+    "results": "43",
+    "hashOfConfig": "23"
+  },
+  {
+    "filePath": "44",
+    "messages": "45",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "1pvfvap",
+  {
+    "filePath": "46",
+    "messages": "47",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "48",
+    "messages": "49",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0,
+    "usedDeprecatedRules": "50"
+  },
+  {
+    "filePath": "51",
+    "messages": "52",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "53",
+    "messages": "54",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "55",
+    "messages": "56",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "57",
+    "messages": "58",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "59",
+    "messages": "60",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "61",
+    "messages": "62",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "63",
+    "messages": "64",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "65",
+    "messages": "66",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "67",
+    "messages": "68",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "69",
+    "messages": "70",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "71",
+    "messages": "72",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "73",
+    "messages": "74",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "75",
+    "messages": "76",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "77",
+    "messages": "78",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "79",
+    "messages": "80",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "81",
+    "messages": "82",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "83",
+    "messages": "84",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  {
+    "filePath": "85",
+    "messages": "86",
+    "errorCount": 0,
+    "fatalErrorCount": 0,
+    "warningCount": 0,
+    "fixableErrorCount": 0,
+    "fixableWarningCount": 0
+  },
+  "E:\\budget-react-main\\src\\index.js",
+  [],
+  "E:\\budget-react-main\\src\\App.js",
+  [],
+  "E:\\budget-react-main\\src\\store\\configureStore.js",
+  [],
+  [
+    "87",
+    "88"
+  ],
+  "E:\\budget-react-main\\src\\components\\ModalEdit.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\NewEntryForm.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\DisplayBalance.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\EntryLines.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\DisplayBalances.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\MainHeader.js",
+  [],
+  "E:\\budget-react-main\\src\\reducers\\modals.reducers.js",
+  [],
+  "E:\\budget-react-main\\src\\reducers\\entries.reducers.js",
+  [],
+  "E:\\budget-react-main\\src\\actions\\entries.actions.js",
+  [],
+  "E:\\budget-react-main\\src\\sagas\\index.js",
+  [],
+  "E:\\budget-react-main\\src\\actions\\modals.actions.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\ButtonSaveOrCancel.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\EntryForm.js",
+  [],
+  "E:\\budget-react-main\\src\\components\\EntryLine.js",
+  [],
+  "E:\\budget-react-main\\src\\hooks\\useEntryDetails.js",
+  [],
+  "E:\\budget-react-main\\src\\sagas\\entriesSagaDeletion.js",
+  [],
+  "E:\\budget-react-main\\src\\sagas\\entriesSagaAdd.js",
+  [],
+  "E:\\budget-react-main\\src\\sagas\\entriesSaga.js",
+  [],
+  {
+    "ruleId": "89",
+    "replacedBy": "90"
+  },
+  {
+    "ruleId": "91",
+    "replacedBy": "92"
+  },
+  "no-native-reassign",
+  [
+    "93"
+  ],
+  "no-negated-in-lhs",
+  [
+    "94"
+  ],
+  "no-global-assign",
+  "no-unsafe-negation"
+]

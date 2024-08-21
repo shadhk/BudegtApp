@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "id": "1",
+      "description": "Income Rent"
+    },
+    {
+      "id": "3",
+      "description": "Rent"
+    },
+    {
+      "id": "e8805fe8-d9c3-4c8f-8e17-1cfbf33dee1e",
+      "description": "This entry should show now"
+    },
+    {
+      "id": "807c41a0-6d3d-416f-a1f3-1652f1ad1d8d",
+      "description": "New Expense"
+    },
+    {
+      "id": "a84c4d7c-a4b8-4e60-94e2-b076494c5201",
+      "description": "Travelling Expense"
+    }
+  ],
+  "values": [
+    {
+      "id": "1",
+      "value": 1000,
+      "isExpense": false
+    },
+    {
+      "id": "3",
+      "value": 300,
+      "isExpense": true
+    },
+    {
+      "id": "e8805fe8-d9c3-4c8f-8e17-1cfbf33dee1e",
+      "isExpense": true,
+      "value": "1000"
+    },
+    {
+      "id": "807c41a0-6d3d-416f-a1f3-1652f1ad1d8d",
+      "isExpense": true,
+      "value": "200"
+    },
+    {
+      "id": "a84c4d7c-a4b8-4e60-94e2-b076494c5201",
+      "isExpense": true,
+      "value": "150"
+    }
+  ]
+}
